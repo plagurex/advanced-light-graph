@@ -151,8 +151,3 @@ Diagram.draw(document.getElementById('pie-container'), customColors);
 
 ## Browser Compatibility
 The library works in all modern browsers that support SVG elements. Ensure your environment supports ES6 modules.
-
----
-
-## Conclusion
-The Infographics Library is designed for simplicity and scalability, offering powerful tools for creating professional-grade data visualizations. It’s perfect for dashboards, reports, and any application requiring dynamic infographics.
