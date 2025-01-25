@@ -1,7 +1,7 @@
 import { createSVGElement, generateColors, createSVGElement } from './functions.js'
 
 
-export class Diogram {
+export class Diagram {
     constructor(width, height) {
         this.height = height;
         this.width = width;
